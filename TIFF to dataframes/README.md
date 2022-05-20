@@ -2,4 +2,4 @@
 
 For this code to work, the panel .csv name must match the name referenced. The name of the tiff files and their respective masks must match the format outlined in the notebook. read the comments carefully they indicate where code customisations are necessary.
 
-IMC tiffs to "dataframes.ipynb" is the notebook to use with your own data, "importing to dataframes - Example output .ipynb" is populated with example outputs so you can see what to expect.
+"importing to dataframes - Example output .ipynb" is populated with example outputs so you can see what to expect.
